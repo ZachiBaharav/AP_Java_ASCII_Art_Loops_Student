@@ -6,6 +6,7 @@
 public class AsciiArt {
 
     
+    
     /**
      * 
      * @param n side of square
